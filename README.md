@@ -4,6 +4,8 @@ Thank you for taking the time to explore my project! Your interest and feedback 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chirag2501/) or visit my [Portfolio](https://mavenanalytics.io/profile/chirag25s). You can also reach out to me via email at [c.sharma251201@gmail.com](mailto:c.sharma251201@gmail.com) if you're looking to hire a **Data Analyst** who is passionate about turning data into actionable insights.
 
+![Adidas Sales EDA Project](https://github.com/Chirag25s/Adidas-Sales-EDA-Analysis/blob/main/Adidas_Sales_EDA_Project.png)
+
 ---
 
 ## Project Overview  
